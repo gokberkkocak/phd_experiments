@@ -1,8 +1,10 @@
-# Repository for PhD experiments
+# Repository for PhD experiments [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5931360.svg)](https://doi.org/10.5281/zenodo.5931360)
+
+
 
 ## Data
 
-Contains the data for pattern mining problems from [![DOI](https://zenodo.org/badge/183025611.svg)](https://zenodo.org/badge/latestdoi/183025611) and some additional portfolio training data generated from feature extraction scripts from scripts
+Contains the data for pattern mining problems from our [ECAI2020 paper data](https://doi.org/10.5281/zenodo.3675340) and some additional portfolio training data generated from feature extraction scripts from scripts
 
 ## Models
 
