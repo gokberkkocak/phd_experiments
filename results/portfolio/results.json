@@ -1,0 +1,842 @@
+[
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "0",
+      "rnd": "0",
+      "time": "63450.650711446"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "0",
+      "rnd": "1",
+      "time": "63419.255829756"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "1",
+      "rnd": "0",
+      "time": "134714.99210457798"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "1",
+      "rnd": "1",
+      "time": "113916.46513891798"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "2",
+      "rnd": "0",
+      "time": "102526.44462417"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "2",
+      "rnd": "1",
+      "time": "119219.32394217"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "3",
+      "rnd": "0",
+      "time": "84492.80543175999"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "3",
+      "rnd": "1",
+      "time": "84492.80543175999"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "4",
+      "rnd": "0",
+      "time": "53856.290872189"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "4",
+      "rnd": "1",
+      "time": "31844.38445564901"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "5",
+      "rnd": "0",
+      "time": "88135.86440542601"
+  },
+  {
+      "system": "finalf",
+      "threshold": "100",
+      "split": "5",
+      "rnd": "1",
+      "time": "72136.706742626"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "0",
+      "rnd": "0",
+      "time": "125952.26002773999"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "0",
+      "rnd": "1",
+      "time": "125951.43419734998"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "1",
+      "rnd": "0",
+      "time": "116109.16420609801"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "1",
+      "rnd": "1",
+      "time": "116109.16420609801"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "2",
+      "rnd": "0",
+      "time": "104431.992815329"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "2",
+      "rnd": "1",
+      "time": "98325.826572329"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "3",
+      "rnd": "0",
+      "time": "103654.530708299"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "3",
+      "rnd": "1",
+      "time": "83914.31276709899"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "4",
+      "rnd": "0",
+      "time": "146978.50507628298"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "4",
+      "rnd": "1",
+      "time": "170039.297641383"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "5",
+      "rnd": "0",
+      "time": "158055.697948172"
+  },
+  {
+      "system": "finalf",
+      "threshold": "150",
+      "split": "5",
+      "rnd": "1",
+      "time": "157522.132938172"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "0",
+      "rnd": "0",
+      "time": "116986.11747104398"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "0",
+      "rnd": "1",
+      "time": "138818.441356774"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "1",
+      "rnd": "0",
+      "time": "369014.19280077"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "1",
+      "rnd": "1",
+      "time": "347440.16815915605"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "2",
+      "rnd": "0",
+      "time": "236628.982552053"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "2",
+      "rnd": "1",
+      "time": "236584.67022748003"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "3",
+      "rnd": "0",
+      "time": "340747.10310772504"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "3",
+      "rnd": "1",
+      "time": "319853.77143864"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "4",
+      "rnd": "0",
+      "time": "370861.392263456"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "4",
+      "rnd": "1",
+      "time": "285476.56238839607"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "5",
+      "rnd": "0",
+      "time": "268913.5080055271"
+  },
+  {
+      "system": "finalf",
+      "threshold": "25",
+      "split": "5",
+      "rnd": "1",
+      "time": "333261.829992283"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "0",
+      "rnd": "0",
+      "time": "145091.71393244303"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "0",
+      "rnd": "1",
+      "time": "121044.391685732"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "1",
+      "rnd": "0",
+      "time": "134578.0409584"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "1",
+      "rnd": "1",
+      "time": "77147.68191350998"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "2",
+      "rnd": "0",
+      "time": "88432.81335001499"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "2",
+      "rnd": "1",
+      "time": "97041.35050911496"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "3",
+      "rnd": "0",
+      "time": "172412.71164282897"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "3",
+      "rnd": "1",
+      "time": "173395.47175989"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "4",
+      "rnd": "0",
+      "time": "109760.918755948"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "4",
+      "rnd": "1",
+      "time": "109649.48972913802"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "5",
+      "rnd": "0",
+      "time": "121286.22792524702"
+  },
+  {
+      "system": "finalf",
+      "threshold": "50",
+      "split": "5",
+      "rnd": "1",
+      "time": "139306.13764725803"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "0",
+      "rnd": "0",
+      "time": "131438.492776652"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "0",
+      "rnd": "1",
+      "time": "132634.87938156098"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "1",
+      "rnd": "0",
+      "time": "130777.59055805898"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "1",
+      "rnd": "1",
+      "time": "147069.24973592194"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "2",
+      "rnd": "0",
+      "time": "187808.46426640003"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "2",
+      "rnd": "1",
+      "time": "101905.75469525"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "3",
+      "rnd": "0",
+      "time": "59506.108715898"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "3",
+      "rnd": "1",
+      "time": "145481.96908457598"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "4",
+      "rnd": "0",
+      "time": "113824.30654902499"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "4",
+      "rnd": "1",
+      "time": "173199.08701439304"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "5",
+      "rnd": "0",
+      "time": "129774.91000498997"
+  },
+  {
+      "system": "finalf",
+      "threshold": "66",
+      "split": "5",
+      "rnd": "1",
+      "time": "131772.77702774"
+  },
+  {
+      "system": "vbest",
+      "threshold": "100",
+      "split": "0",
+      "rnd": "-",
+      "time": "17680.298605029002"
+  },
+  {
+      "system": "sbs",
+      "threshold": "100",
+      "split": "0",
+      "rnd": "-",
+      "time": "85536.332108163"
+  },
+  {
+      "system": "vbest",
+      "threshold": "100",
+      "split": "1",
+      "rnd": "-",
+      "time": "36904.895368713005"
+  },
+  {
+      "system": "sbs",
+      "threshold": "100",
+      "split": "1",
+      "rnd": "-",
+      "time": "133282.639311687"
+  },
+  {
+      "system": "vbest",
+      "threshold": "100",
+      "split": "2",
+      "rnd": "-",
+      "time": "31391.140382475"
+  },
+  {
+      "system": "sbs",
+      "threshold": "100",
+      "split": "2",
+      "rnd": "-",
+      "time": "120419.21473577301"
+  },
+  {
+      "system": "vbest",
+      "threshold": "100",
+      "split": "3",
+      "rnd": "-",
+      "time": "19123.560529275"
+  },
+  {
+      "system": "sbs",
+      "threshold": "100",
+      "split": "3",
+      "rnd": "-",
+      "time": "84490.963682593"
+  },
+  {
+      "system": "vbest",
+      "threshold": "100",
+      "split": "4",
+      "rnd": "-",
+      "time": "7717.472097246"
+  },
+  {
+      "system": "sbs",
+      "threshold": "100",
+      "split": "4",
+      "rnd": "-",
+      "time": "54874.86097666999"
+  },
+  {
+      "system": "vbest",
+      "threshold": "100",
+      "split": "5",
+      "rnd": "-",
+      "time": "32007.017375586995"
+  },
+  {
+      "system": "sbs",
+      "threshold": "100",
+      "split": "5",
+      "rnd": "-",
+      "time": "84412.28322655802"
+  },
+  {
+      "system": "vbest",
+      "threshold": "150",
+      "split": "0",
+      "rnd": "-",
+      "time": "19311.896616181"
+  },
+  {
+      "system": "sbs",
+      "threshold": "150",
+      "split": "0",
+      "rnd": "-",
+      "time": "88690.62037862302"
+  },
+  {
+      "system": "vbest",
+      "threshold": "150",
+      "split": "1",
+      "rnd": "-",
+      "time": "20238.455190398"
+  },
+  {
+      "system": "sbs",
+      "threshold": "150",
+      "split": "1",
+      "rnd": "-",
+      "time": "96228.39099227703"
+  },
+  {
+      "system": "vbest",
+      "threshold": "150",
+      "split": "2",
+      "rnd": "-",
+      "time": "23504.112195421003"
+  },
+  {
+      "system": "sbs",
+      "threshold": "150",
+      "split": "2",
+      "rnd": "-",
+      "time": "106100.08647610302"
+  },
+  {
+      "system": "vbest",
+      "threshold": "150",
+      "split": "3",
+      "rnd": "-",
+      "time": "27984.199167589"
+  },
+  {
+      "system": "sbs",
+      "threshold": "150",
+      "split": "3",
+      "rnd": "-",
+      "time": "84864.37250992001"
+  },
+  {
+      "system": "vbest",
+      "threshold": "150",
+      "split": "4",
+      "rnd": "-",
+      "time": "29620.082125294997"
+  },
+  {
+      "system": "sbs",
+      "threshold": "150",
+      "split": "4",
+      "rnd": "-",
+      "time": "152091.507358852"
+  },
+  {
+      "system": "vbest",
+      "threshold": "150",
+      "split": "5",
+      "rnd": "-",
+      "time": "25549.991702630003"
+  },
+  {
+      "system": "sbs",
+      "threshold": "150",
+      "split": "5",
+      "rnd": "-",
+      "time": "117455.051697072"
+  },
+  {
+      "system": "vbest",
+      "threshold": "25",
+      "split": "0",
+      "rnd": "-",
+      "time": "10667.046677448"
+  },
+  {
+      "system": "sbs",
+      "threshold": "25",
+      "split": "0",
+      "rnd": "-",
+      "time": "54352.95232312001"
+  },
+  {
+      "system": "vbest",
+      "threshold": "25",
+      "split": "1",
+      "rnd": "-",
+      "time": "28179.04286343"
+  },
+  {
+      "system": "sbs",
+      "threshold": "25",
+      "split": "1",
+      "rnd": "-",
+      "time": "117086.72556338"
+  },
+  {
+      "system": "vbest",
+      "threshold": "25",
+      "split": "2",
+      "rnd": "-",
+      "time": "21215.990192953996"
+  },
+  {
+      "system": "sbs",
+      "threshold": "25",
+      "split": "2",
+      "rnd": "-",
+      "time": "145421.89824724296"
+  },
+  {
+      "system": "vbest",
+      "threshold": "25",
+      "split": "3",
+      "rnd": "-",
+      "time": "26821.329119632"
+  },
+  {
+      "system": "sbs",
+      "threshold": "25",
+      "split": "3",
+      "rnd": "-",
+      "time": "107593.561365525"
+  },
+  {
+      "system": "vbest",
+      "threshold": "25",
+      "split": "4",
+      "rnd": "-",
+      "time": "25783.208752956998"
+  },
+  {
+      "system": "sbs",
+      "threshold": "25",
+      "split": "4",
+      "rnd": "-",
+      "time": "80578.58646218001"
+  },
+  {
+      "system": "vbest",
+      "threshold": "25",
+      "split": "5",
+      "rnd": "-",
+      "time": "21233.537267228"
+  },
+  {
+      "system": "sbs",
+      "threshold": "25",
+      "split": "5",
+      "rnd": "-",
+      "time": "99939.543609207"
+  },
+  {
+      "system": "vbest",
+      "threshold": "50",
+      "split": "0",
+      "rnd": "-",
+      "time": "27184.235803767995"
+  },
+  {
+      "system": "sbs",
+      "threshold": "50",
+      "split": "0",
+      "rnd": "-",
+      "time": "87333.47705323299"
+  },
+  {
+      "system": "vbest",
+      "threshold": "50",
+      "split": "1",
+      "rnd": "-",
+      "time": "22665.073019173"
+  },
+  {
+      "system": "sbs",
+      "threshold": "50",
+      "split": "1",
+      "rnd": "-",
+      "time": "93343.80538887001"
+  },
+  {
+      "system": "vbest",
+      "threshold": "50",
+      "split": "2",
+      "rnd": "-",
+      "time": "24701.394935455"
+  },
+  {
+      "system": "sbs",
+      "threshold": "50",
+      "split": "2",
+      "rnd": "-",
+      "time": "108375.78392216499"
+  },
+  {
+      "system": "vbest",
+      "threshold": "50",
+      "split": "3",
+      "rnd": "-",
+      "time": "26976.675271201002"
+  },
+  {
+      "system": "sbs",
+      "threshold": "50",
+      "split": "3",
+      "rnd": "-",
+      "time": "126729.215184307"
+  },
+  {
+      "system": "vbest",
+      "threshold": "50",
+      "split": "4",
+      "rnd": "-",
+      "time": "27765.946459642993"
+  },
+  {
+      "system": "sbs",
+      "threshold": "50",
+      "split": "4",
+      "rnd": "-",
+      "time": "75918.111529118"
+  },
+  {
+      "system": "vbest",
+      "threshold": "50",
+      "split": "5",
+      "rnd": "-",
+      "time": "16031.988628628"
+  },
+  {
+      "system": "sbs",
+      "threshold": "50",
+      "split": "5",
+      "rnd": "-",
+      "time": "101142.406239688"
+  },
+  {
+      "system": "vbest",
+      "threshold": "66",
+      "split": "0",
+      "rnd": "-",
+      "time": "31495.464759337003"
+  },
+  {
+      "system": "sbs",
+      "threshold": "66",
+      "split": "0",
+      "rnd": "-",
+      "time": "134076.47502306098"
+  },
+  {
+      "system": "vbest",
+      "threshold": "66",
+      "split": "1",
+      "rnd": "-",
+      "time": "28157.44367556"
+  },
+  {
+      "system": "sbs",
+      "threshold": "66",
+      "split": "1",
+      "rnd": "-",
+      "time": "139638.935480575"
+  },
+  {
+      "system": "vbest",
+      "threshold": "66",
+      "split": "2",
+      "rnd": "-",
+      "time": "14546.236594776998"
+  },
+  {
+      "system": "sbs",
+      "threshold": "66",
+      "split": "2",
+      "rnd": "-",
+      "time": "61038.39948472001"
+  },
+  {
+      "system": "vbest",
+      "threshold": "66",
+      "split": "3",
+      "rnd": "-",
+      "time": "14174.820080409"
+  },
+  {
+      "system": "sbs",
+      "threshold": "66",
+      "split": "3",
+      "rnd": "-",
+      "time": "65272.524545367996"
+  },
+  {
+      "system": "vbest",
+      "threshold": "66",
+      "split": "4",
+      "rnd": "-",
+      "time": "20907.399354027002"
+  },
+  {
+      "system": "sbs",
+      "threshold": "66",
+      "split": "4",
+      "rnd": "-",
+      "time": "110295.054943925"
+  },
+  {
+      "system": "vbest",
+      "threshold": "66",
+      "split": "5",
+      "rnd": "-",
+      "time": "25823.356018831008"
+  },
+  {
+      "system": "sbs",
+      "threshold": "66",
+      "split": "5",
+      "rnd": "-",
+      "time": "105784.58301054999"
+  }
+]

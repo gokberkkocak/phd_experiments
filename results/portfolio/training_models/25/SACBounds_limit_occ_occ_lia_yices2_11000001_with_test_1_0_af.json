@@ -1,0 +1,6 @@
+{
+ "stats": "auto-sklearn results:\n  Dataset name: b15706de-c2e1-11eb-83f3-00259083ca70\n  Metric: accuracy\n  Best validation score: 0.913043\n  Number of target algorithm runs: 230\n  Number of successful target algorithm runs: 230\n  Number of crashed target algorithm runs: 0\n  Number of target algorithms that exceeded the time limit: 0\n  Number of target algorithms that exceeded the memory limit: 0\n",
+ "models": "[(1.000000, MyDummyClassifier(config=1, init_params={'instance': None}, random_state=1)),\n]",
+ "validate_accuracy_score": 0.851063829787234,
+ "test_accuracy_score": 0.9166666666666666
+}

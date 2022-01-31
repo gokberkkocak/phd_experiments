@@ -1,0 +1,27 @@
+language Essence 1.3
+
+letting config_domain be domain int(0..28)
+
+given total_set: set of int $ 1..238
+
+given configs : function (total) config_domain --> sequence (size 238) of int(0..325000)
+
+find result: set of int(0..28)
+
+find result_mat: sequence (size 238) of int(0..325000)
+
+find sum_av_time : int(0..5000000)
+
+such that 
+    forAll i in total_set .
+        exists row in result .
+            configs(row)(i) = result_mat(i)
+
+such that
+    sum_av_time = (sum i : int(1..238) . result_mat(i))
+
+such that 
+    sum_av_time < 2000000
+
+such that 
+    |result| < 20

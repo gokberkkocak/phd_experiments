@@ -1,0 +1,13 @@
+SolverMemOut:0
+Restarts:52
+SolverSatisfiable:1
+SolverTimeOut:0
+SATVars:1017
+BoolPropagations:4765693
+SolverTotalTime:1.0396648
+SATClauses:2170
+SavileRowClauseOut:0
+SavileRowTotalTime:7.76
+SavileRowTimeOut:0
+SolverNodes:11392.0
+TheoryPropagations:0

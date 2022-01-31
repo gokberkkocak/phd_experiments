@@ -1,0 +1,101 @@
+language ESSENCE' 1.0
+
+letting horizon be 80
+letting duration_FunctionAsRelation_RelationAsSet_Explicit_1_1 be
+        [1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 8, 8, 8, 9, 9, 9, 10, 10, 10, 11, 11, 11, 12, 12, 12,
+         13, 13, 13, 14;
+             int(1..38)]
+letting duration_FunctionAsRelation_RelationAsSet_Explicit_1_2 be
+        [1, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 2, 3,
+         1;  int(1..38)]
+letting duration_FunctionAsRelation_RelationAsSet_Explicit_2 be
+        [0, 4, 9, 10, 2, 9, 10, 4, 8, 9, 1, 5, 7, 4, 8, 9, 2, 5, 6, 1, 1, 4, 3, 3, 5, 2, 4, 4, 2, 6, 7, 4, 5, 5, 3, 4,
+         4, 0;
+             int(1..38)]
+letting successors_Function1DR6_ExplicitVarSizeWithDummy be
+        [[2, 3, 4; int(1..3)], [5, 8, 9; int(1..3)], [6, 7, 9; int(1..3)], [7, 9, 11; int(1..3)],
+         [10, 11, 12; int(1..3)], [8, 12, 15; int(1..3)], [12, 13, 15; int(1..3)], [10, 11, 15; int(1..3)],
+         [10, 15, 15; int(1..3)], [13, 15, 15; int(1..3)], [14, 15, 15; int(1..3)], [14, 15, 15; int(1..3)],
+         [14, 15, 15; int(1..3)], [15, 15, 15; int(1..3)];
+             int(1..14)]
+$ Visualisation for successors_Function1DR6_ExplicitVarSizeWithDummy
+$  2  3  4
+$  5  8  9
+$  6  7  9
+$  7  9 11
+$ 10 11 12
+$  8 12 15
+$ 12 13 15
+$ 10 11 15
+$ 10 15 15
+$ 13 15 15
+$ 14 15 15
+$ 14 15 15
+$ 14 15 15
+$ 15 15 15
+
+letting nonRenewableResourceUsage_FunctionAsRelation_RelationAsSet_Explicit_1_1 be
+        [1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7,
+         7, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12,
+         13, 13, 13, 13, 13, 13, 14, 14;
+             int(1..76)]
+letting nonRenewableResourceUsage_FunctionAsRelation_RelationAsSet_Explicit_1_2 be
+        [1, 1, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3,
+         3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3,
+         1, 1;
+             int(1..76)]
+letting nonRenewableResourceUsage_FunctionAsRelation_RelationAsSet_Explicit_1_3 be
+        [1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1,
+         2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2,
+         1, 2;
+             int(1..76)]
+letting nonRenewableResourceUsage_FunctionAsRelation_RelationAsSet_Explicit_2 be
+        [0, 0, 8, 0, 7, 0, 6, 0, 5, 0, 3, 0, 0, 3, 9, 0, 8, 0, 0, 9, 0, 5, 6, 0, 0, 5, 8, 0, 0, 2, 8, 0, 7, 0, 6, 0, 0,
+         5, 0, 10, 0, 9, 8, 0, 8, 0, 0, 7, 0, 5, 0, 4, 0, 3, 6, 0, 0, 5, 5, 0, 2, 0, 0, 6, 0, 4, 5, 0, 4, 0, 4, 0, 0, 9,
+         0, 0;
+             int(1..76)]
+letting nonRenewableLimits_Function1D be [79, 65; int(1..2)]
+letting renewableResourceUsage_FunctionAsRelation_RelationAsSet_Explicit_1_1 be
+        [1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7,
+         7, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12,
+         13, 13, 13, 13, 13, 13, 14, 14;
+             int(1..76)]
+letting renewableResourceUsage_FunctionAsRelation_RelationAsSet_Explicit_1_2 be
+        [1, 1, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3,
+         3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3, 1, 1, 2, 2, 3, 3,
+         1, 1;
+             int(1..76)]
+letting renewableResourceUsage_FunctionAsRelation_RelationAsSet_Explicit_1_3 be
+        [1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1,
+         2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2,
+         1, 2;
+             int(1..76)]
+letting renewableResourceUsage_FunctionAsRelation_RelationAsSet_Explicit_2 be
+        [0, 0, 6, 0, 0, 8, 0, 6, 6, 0, 3, 0, 0, 3, 8, 0, 6, 0, 5, 0, 0, 2, 3, 0, 1, 0, 0, 4, 7, 0, 0, 3, 0, 9, 2, 0, 0,
+         8, 10, 0, 0, 5, 9, 0, 7, 0, 4, 0, 2, 0, 0, 3, 0, 3, 0, 3, 2, 0, 2, 0, 2, 0, 8, 0, 3, 0, 4, 0, 0, 4, 0, 3, 0, 2,
+         0, 0;
+             int(1..76)]
+letting renewableLimits_Function1D be [21, 13; int(1..2)]
+letting startDummy be 1
+letting endDummy be 14
+letting fin1 be 2
+letting fin2 be 13
+letting fin3 be 21
+letting fin4 be 2
+letting fin5 be 65
+letting fin6 be 79
+letting fin7 be 14
+letting fin8 be 3
+letting fin9 be 76
+letting fin10 be 0
+letting fin11 be 10
+letting fin12 be 76
+letting fin13 be 0
+letting fin14 be 10
+letting fin15 be 38
+letting fin16 be 0
+letting fin17 be 10
+letting nonRenewableResources_EnumSize be 2
+letting renewableResources_EnumSize be 2
+letting jobs_EnumSize be 14
+letting modes_EnumSize be 3

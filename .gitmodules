@@ -1,0 +1,27 @@
+[submodule "software/conjure"]
+	path = software/conjure
+	url = https://github.com/conjure-cp/conjure/
+[submodule "software/rrr"]
+	path = software/rrr
+	url = https://github.com/gokberkkocak/rrr
+[submodule "software/dpem"]
+	path = software/dpem
+	url = https://github.com/gokberkkocak/dpem
+[submodule "software/dpemr"]
+	path = software/dpemr
+	url = https://github.com/gokberkkocak/dpemr
+[submodule "software/rust_glucose"]
+	path = software/rust_glucose
+	url = https://github.com/gokberkkocak/rust_glucose
+[submodule "software/rust_nbc"]
+	path = software/rust_nbc
+	url = https://github.com/gokberkkocak/rust_nbc
+[submodule "software/rust_cadical"]
+	path = software/rust_cadical
+	url = https://github.com/gokberkkocak/rust_cadical
+[submodule "software/dig-rs"]
+	path = software/dig-rs
+	url = https://github.com/gokberkkocak/dig-rs
+[submodule "software/expander-rs"]
+	path = software/expander-rs
+	url = https://github.com/gokberkkocak/expander-rs

@@ -1,0 +1,6 @@
+{
+ "stats": "auto-sklearn results:\n  Dataset name: 78f1b5fa-cad3-11eb-a9c0-00259083ca70\n  Metric: accuracy\n  Best validation score: 0.956522\n  Number of target algorithm runs: 82\n  Number of successful target algorithm runs: 77\n  Number of crashed target algorithm runs: 4\n  Number of target algorithms that exceeded the time limit: 1\n  Number of target algorithms that exceeded the memory limit: 0\n",
+ "models": "[(1.000000, SimpleClassificationPipeline({'balancing:strategy': 'weighting', 'classifier:__choice__': 'lda', 'data_preprocessing:categorical_transformer:categorical_encoding:__choice__': 'no_encoding', 'data_preprocessing:categorical_transformer:category_coalescence:__choice__': 'no_coalescense', 'data_preprocessing:numerical_transformer:imputation:strategy': 'most_frequent', 'data_preprocessing:numerical_transformer:rescaling:__choice__': 'minmax', 'feature_preprocessor:__choice__': 'kernel_pca', 'classifier:lda:shrinkage': 'None', 'classifier:lda:tol': 0.002416353354928236, 'feature_preprocessor:kernel_pca:kernel': 'cosine', 'feature_preprocessor:kernel_pca:n_components': 965},\ndataset_properties={\n  'task': 1,\n  'sparse': False,\n  'multilabel': False,\n  'multiclass': False,\n  'target_type': 'classification',\n  'signed': False})),\n]",
+ "validate_accuracy_score": 0.8723404255319149,
+ "test_accuracy_score": 0.9375
+}

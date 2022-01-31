@@ -1,0 +1,6 @@
+{
+ "stats": "auto-sklearn results:\n  Dataset name: 83d67a4a-ddc1-11eb-9568-002590843b00\n  Metric: accuracy\n  Best validation score: 0.829787\n  Number of target algorithm runs: 65\n  Number of successful target algorithm runs: 58\n  Number of crashed target algorithm runs: 1\n  Number of target algorithms that exceeded the time limit: 6\n  Number of target algorithms that exceeded the memory limit: 0\n",
+ "models": "[(1.000000, SimpleClassificationPipeline({'balancing:strategy': 'none', 'classifier:__choice__': 'gaussian_nb', 'data_preprocessing:categorical_transformer:categorical_encoding:__choice__': 'one_hot_encoding', 'data_preprocessing:categorical_transformer:category_coalescence:__choice__': 'no_coalescense', 'data_preprocessing:numerical_transformer:imputation:strategy': 'mean', 'data_preprocessing:numerical_transformer:rescaling:__choice__': 'normalize', 'feature_preprocessor:__choice__': 'select_rates_classification', 'feature_preprocessor:select_rates_classification:alpha': 0.3942851479561532, 'feature_preprocessor:select_rates_classification:score_func': 'mutual_info_classif'},\ndataset_properties={\n  'task': 1,\n  'sparse': False,\n  'multilabel': False,\n  'multiclass': False,\n  'target_type': 'classification',\n  'signed': False})),\n]",
+ "validate_accuracy_score": 0.7659574468085106,
+ "test_accuracy_score": 0.8297872340425532
+}
